@@ -1,13 +1,12 @@
 # Collaborative Note-Taking Application
 
-## Project Setup
+## Features
+- Real-time collaborative note-taking
+- Add notes that appear in all connected clients
 
-### Prerequisites
-- Node.js (v14 or higher)
-- npm (Node Package Manager)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/collaborative-note-taking.git
-   cd collaborative-note-taking
+## Setup Instructions
+1. Clone the repository
+2. Navigate to the `server` directory and run `npm install`.
+3. Run the server with `node index.js`.
+4. Navigate to the `client` directory and run `npm install`.
+5. Start the client with `npm start`.
